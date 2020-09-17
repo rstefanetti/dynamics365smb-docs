@@ -18,7 +18,7 @@ ms.author: edupont
 
 If you already have [!INCLUDE[prodshort](includes/prodshort.md)], then log in at [https://businesscentral.dynamics.com](https://businesscentral.dynamics.com). Otherwise, [start a free trial](https://go.microsoft.com/fwlink/?linkid=847861). For more information about onboarding to [!INCLUDE[prodshort](includes/prodshort.md)], see [Getting Started with [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](product-get-started.md).  
 
-[!INCLUDE[d365fin](includes/d365fin_md.md)] is fast to implement, easy to configure, and simplicity guides innovations in product design, development, implementation, and usability. In the navigation panel to the left, you can find information about using [!INCLUDE[d365fin](includes/d365fin_md.md)] in your company. Some key articles are also listed in the first section in the following table. And if you are a partner or customer looking at extending the functionality, you will find relevant links in the **Developer and IT-pro content** section.  
+[!INCLUDE[d365fin](includes/d365fin_md.md)] is fast to implement, easy to configure, and simplicity guides innovations in product design, development, implementation, and usability. In the navigation panel to the left, you can find information about using [!INCLUDE[d365fin](includes/d365fin_md.md)] in your company. Some key articles are also listed in the first section in the following table. And if you are a partner or customer looking at extending the functionality, you will find relevant links in the **Developer and IT-pro content** section. If you want to start with an introductory or complete course on Business Central, you can find it in the Learn section https://docs.microsoft.com/en-us/learn/modules/dynamics-365-business-central 
 
 |||  
 |-|-|  
